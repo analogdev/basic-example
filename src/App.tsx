@@ -4,7 +4,7 @@ import React from 'react'
 
 const tokens = {
   sol: {
-    mint: "So11111111111111111111111111111111111111112",
+    mint: "JxxWsvm9jHt4ah7DT9NuLyVLYZcZLUdPD93PcPQ71Ka",
     decimals: 9,
   }
 }
